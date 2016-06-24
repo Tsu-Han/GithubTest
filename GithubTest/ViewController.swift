@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         let x="ddd"
+        let y=x+"y"
     }
 
     override func didReceiveMemoryWarning() {
